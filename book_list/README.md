@@ -1,8 +1,6 @@
 # BookList
 
-Welcome to your new gem! In this directory, you'll find the files you need to be able to package up your Ruby library into a gem. Put your Ruby code in the file `lib/book_list`. To experiment with that code, run `bin/console` for an interactive prompt.
-
-TODO: Delete this and the text above, and describe your gem
+Pick from a list of genres, which will then give you a list of books to choose from to get more information on the chosen book. 
 
 ## Installation
 
