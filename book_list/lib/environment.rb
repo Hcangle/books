@@ -1,6 +1,3 @@
-require "book_list/version"
-
-module BookList
-  class Error < StandardError; end
-  # Your code goes here...
-end
+require "./lib/book_list/cli"
+require "./lib/book_list/api"
+require "./lib/book_list/books"
